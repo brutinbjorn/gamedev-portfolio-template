@@ -1,0 +1,10 @@
+/package-lock.json filter=lfs diff=lfs merge=lfs -text
+/public/img/avatar-og.png filter=lfs diff=lfs merge=lfs -text
+/public/img/projects/project-1-icon.png filter=lfs diff=lfs merge=lfs -text
+/public/img/projects/project-2-icon.png filter=lfs diff=lfs merge=lfs -text
+/public/img/projects/project-3-icon.png filter=lfs diff=lfs merge=lfs -text
+/public/img/projects/project-4-icon.png filter=lfs diff=lfs merge=lfs -text
+/public/img/projects/project-5-icon.png filter=lfs diff=lfs merge=lfs -text
+/public/img/projects/project-7-icon.png filter=lfs diff=lfs merge=lfs -text
+/public/img/projects/project-9-icon.png filter=lfs diff=lfs merge=lfs -text
+/public/img/resume-photo.png filter=lfs diff=lfs merge=lfs -text
