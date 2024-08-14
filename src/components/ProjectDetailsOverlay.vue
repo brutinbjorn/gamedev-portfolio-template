@@ -62,6 +62,14 @@ iframe {
   width: 100%;
 }
 
+.video-container {
+  max-width: 100%;
+  margin: 0 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 h1.dialog-title {
   text-align: center;
   font-size: 1.3em;
