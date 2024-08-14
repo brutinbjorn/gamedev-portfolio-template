@@ -9,3 +9,8 @@
 /public/img/projects/project-7-icon.png filter=lfs diff=lfs merge=lfs -text
 /public/img/projects/project-9-icon.png filter=lfs diff=lfs merge=lfs -text
 /public/img/resume-photo.png filter=lfs diff=lfs merge=lfs -text
+/public/img/IMG_Me.png filter=lfs diff=lfs merge=lfs -text
+/public/img/IMG_Me_1.png filter=lfs diff=lfs merge=lfs -text
+/public/img/projects/SlumberLand_Icon.png filter=lfs diff=lfs merge=lfs -text
+/public/vid/movie480_vp9.webm filter=lfs diff=lfs merge=lfs -text
+/public/vid/movie_max_vp9.webm filter=lfs diff=lfs merge=lfs -text

@@ -125,7 +125,4 @@ export default defineComponent({
     grid-row-end: span 2;
   }
 }
-
-
-
 </style>
