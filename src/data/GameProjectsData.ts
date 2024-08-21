@@ -6,7 +6,7 @@ export default [
     <div class="paragraph">
      <strong>Replaceable</strong> The video Game being created at The Pack Studios. <br/>
      I Worked on this project as a Game Developer, where i worked on new game mechanics, optimization & refactoring of the code. </br>
-     I Started as a intern in September until halfway Januarie, and then was hired to continue on this work until june the 30th. </br>
+     I started as a intern in September until halfway January, and then was hired to continue on this work until June the 30th. </br>
      <!--// is a thing of beauty that I am so proud of. It's available on Android because why not.
      <br/>Image by <a href="https://www.pexels.com/fr-fr/@knownasovan" target="_blank">OVAN</a>. -->
     </div>
@@ -17,30 +17,32 @@ export default [
         <iframe class="video-container" src="vid/movie_max_vp9.webm" height="300px" width="480px"></iframe>
     </div>
 
-    <div class="paragraph center">
-        the game can be found on <a href="https://store.steampowered.com/app/2145980/Replaceable/" target="_blank"> steam.</a>
-    </div>
-
     <!-- example of linking to the app store
     <div class="paragraph center">
         <a href="https://play.google.com/store/apps/details?id=some.playstore.thing" target="_blank"><img src="img/projects/play-store-logo.png" alt="Play Store badge" /></a>
     </div>-->
-
+    
     <div class="paragraph">
         Main features :
         <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
+            <li>Control different robots, each with there own mechanic's.</li>
+            <li>Hack objects in the enviroment.</li>
+            <li>Evade, trick or disable hostile robots.</li>
+            <!--<li>And then some</li>-->
         </ul>
     </div>
 
-    <div class="paragraph center">
-        <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" />
-        <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" />
+    <div class="notice">
+        the game can be found on <a href="https://store.steampowered.com/app/2145980/Replaceable/" target="_blank"> steam.</a>
     </div>
-    `, "#23bd69", true),
+    
+    <div class="paragraph center">
+        <img class="pc-screenshot" src="/img/projects/Replaceable_Gameplay1.jpg" alt="Replaceable gameplay 1 screenshot" />
+        <img class="pc-screenshot" src="/img/projects/Replaceable_Gameplay2.jpg" alt="Replaceable gameplay 2 screenshot" />
+        <img class="pc-screenshot" src="/img/projects/Replaceable_Gameplay3.jpg" alt="Replaceable gameplay 3 screenshot" />
+    </div>
+
+    `, "#0033cc", true),
     new ProjectData("project-2", "Slumberland", "img/projects/SlumberLand_Icon.png", `
     <div class="paragraph">
         <strong>Slumberland</strong> Was made in my 3rd year of DAE, where i worked in a Team off 7. </br>
@@ -52,8 +54,8 @@ export default [
     <div class="paragraph">
         The idea and general method that MyMachine uses is to have children between 6-12 think of a dream machine, and have older ages actually create it. </br>
         For this project then, we interviewed a 2 classes in the 6th grade, and had them create there "Dream machines", we then started on this project with 50 different drawings we had to convert in to game. </br>
-        When then deciced as a team to create a adventure game where we work all of the drawings into the enviroment, game mechanics and enemy's. </br>
-        This is the final result of 5 months working on the Game.
+        When then decided as a team to create a adventure game where we work all of the drawings into the enviroment, game mechanics and enemy's. </br>
+        This is the final result of 5 months working on the game.
     </div>
 
     <div class="paragraph center">
@@ -63,25 +65,24 @@ export default [
     <div class="paragraph">
         Main features :
         <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
+        <li>Explore a magical forest, and a toy factory.</li>
+        <li>Fight nightmares invading the Dreamland.</li>
+        <li>Collect the 52 drawings of the children, created for there dream machine's.</li>
         </ul>
     </div>
 
     <div class="paragraph">
     <div class="notice">
-        Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        Source code is available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
+        Windows build available on <a href="https://reinard-baertsoen.itch.io/mymachine" target="_blank">itch.io</a>.
+        <!--Source code is available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.-->
     </div>
     </div>
 
     <div class="paragraph center">
-    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
-    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
-    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
-    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
+    <img class="pc-screenshot" src="/img/projects/Slumberland_Icon_Game1.png" alt="In game screenshot 1" />
+    <img class="pc-screenshot" src="/img/projects/Slumberland_Icon_Game2.png" alt="In game Screenshot 2" />
+    <img class="pc-screenshot" src="/img/projects/Slumberland_Icon_Game3.png" alt="In game Screenshot 3" />
+    <img class="pc-screenshot" src="/img/projects/Slumberland_Icon_Game4.png" alt="In game Screenshot 4" />
     </div>
     `, "#5a78af"),
     new ProjectData("project-3", "Dont let them eat cake.", "img/projects/DontLetThemEatCake_Icon.png", `
@@ -91,7 +92,7 @@ export default [
         As one of our team mates had access and started messing around with VR, We decided to create a VR-Game. <br/>
         with this game being the result, and I'm pretty proud of it. </br>
 
-        <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@miphotography">Miesha Maiden</a>.
+        <!--<br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@miphotography">Miesha Maiden</a>.-->
     </div>
     <div class="paragraph center">
         <iframe class="youtube" src="https://www.youtube.com/embed/xPWpQKiAGSU" frameborder="0" allowfullscreen></iframe>
@@ -100,40 +101,38 @@ export default [
     <div class="paragraph">
         Main features :
         <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
+        <li>VR Experience</li>
+        <li>Protect your Cake by placing cupcakes.</li>
+        <li>Balance your defences, or break the table.</li>
+        <li>Defeat the waves of cute hungry invaders.</li>
         </ul>
     </div>
 
     <div class="paragraph">
         <div class="notice">
-        Playable in the browser (WebGL) on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        Source code is available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
+        You can download the game on <a href="https://hary766.itch.io/dont-let-them-eat-cake" target="_blank">itch.io</a>.
         </div>
     </div>
 
     <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
+        <img class="pc-screenshot" src="/img/projects/Underfed_Gameplay1.jpg" alt="Drawing Overload Screenshot" />
+        <img class="pc-screenshot" src="/img/projects/Underfed_Gameplay2.png" alt="Drawing Overload Screenshot" />
+        <img class="pc-screenshot" src="/img/projects/Underfed_Gameplay3.png" alt="Drawing Overload Screenshot" />
+        <!--<img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" /> -->
     </div>
-    `, "#383838"),
-    new ProjectData("project-4", "Eugeneable", "img/projects/project-4-icon.png", `
+    `, "#00ff99"),
+    new ProjectData("project-4", "Underfed", "img/projects/Underfed_Icon.png", `
     <div class="paragraph">
-    <strong>Eugeneable</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-    <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@neo8iam">NEOSiAM 2020</a>.
+    <strong>Underfed</strong> Made in my second year of DAE as part of the Game project course.</br>
+    Together with 5 other student from DAE. 
     </div>
     
     <div class="paragraph">
         Main features :
         <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
+        <li>Serve food to customer.</li>
+        <li>Keep the restaurant tidy.</li>
+        <li>Try to get the best score possible.(or not)</li>
         </ul>
     </div>
 
@@ -144,8 +143,9 @@ export default [
     </div>
 
     <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
+        <img class="pc-screenshot" src="/img/projects/Underfed_Gameplay1.jpg" alt="Underfed gameplay screenshot" />
+        <img class="pc-screenshot" src="/img/projects/Underfed_Gameplay2.png" alt="Underfed gameplay screenshot" />
+        <img class="pc-screenshot" src="/img/projects/Underfed_Gameplay3.png" alt="Underfed gameplay screenshot" />
     </div>
     `, "#e80fb7")
 //     ,

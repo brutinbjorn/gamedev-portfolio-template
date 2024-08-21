@@ -64,7 +64,7 @@ iframe {
 
 .video-container {
   max-width: 100%;
-  margin: 0 0;
+  margin: 0;
   display: flex;
   justify-content: center;
   align-items: center;
