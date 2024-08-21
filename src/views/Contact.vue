@@ -12,7 +12,7 @@
       </li> -->
       <li>
         <i class="fa fa-mobile fa-lg fa-fw"></i>
-        +32471819047
+        +32471819047 
         </li>
       <li>
         <i class="fa fa-envelope-o fa-lg fa-fw"></i> 
