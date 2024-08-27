@@ -34,11 +34,11 @@ export default defineComponent({
 
 .skill-name {
   float: left;
-  width: 200px;
+  width: 250px;
 }
 
 .skill-rate {
-  float: left;
+  float: inline-start;
   width: 80px;
   padding-top:11px;
 }

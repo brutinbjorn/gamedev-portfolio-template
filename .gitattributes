@@ -29,3 +29,10 @@
 /public/img/projects/Underfed_Gameplay2.png filter=lfs diff=lfs merge=lfs -text
 /public/img/projects/Underfed_Gameplay3.png filter=lfs diff=lfs merge=lfs -text
 /public/img/projects/Underfed_Icon.png filter=lfs diff=lfs merge=lfs -text
+/public/CV/CV_Brutin_Bjorn.pdf filter=lfs diff=lfs merge=lfs -text
+/public/img/projects/Cursed_Arcade.jpeg filter=lfs diff=lfs merge=lfs -text
+/public/img/projects/Screenshot_Rasterizer.png filter=lfs diff=lfs merge=lfs -text
+/public/img/projects/Screenshot_Rasterizer_Small.png filter=lfs diff=lfs merge=lfs -text
+/public/img/projects/ZombieSurvivalAI_ICon.png filter=lfs diff=lfs merge=lfs -text
+/public/vid/VideoZombieAI.mkv filter=lfs diff=lfs merge=lfs -text
+/public/vid/videoWithoutAudio.mkv filter=lfs diff=lfs merge=lfs -text
