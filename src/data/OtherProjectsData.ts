@@ -71,11 +71,11 @@ export default [
             </div>
 
             <div class="paragraph center">
-              <iframe class="video-container" src="vid/videoZombieAI.mkv"></iframe>
+              <iframe class="video-container" src="vid/CompressedZombieAI.mp4"></iframe>
             </div>
-            <div class="paragraph center">
+            <div class="paragraph">
               the AI will look for houses first.<br/> 
-              Done by abusing the fact that the player character checks the navmesh for points it cant go straight towards.<br/>
+              Thisis done by abusing the fact that the player character checks the navmesh for points it cant go straight towards.<br/>
               Then the AI navigates towards the closest house, checking the items it finds inside and grabs a specific layout.<br/>
               After grabbing a pistol, it will also fire at enemy's. when hit the character will also check if there are any enemy's behind him. <br/>
               The AI uses a Behaviour tree to decide its action's.<br/>
@@ -98,7 +98,7 @@ export default [
             </div>
             -->
             `),
-    new ProjectData("project-9", "Nikolable", "img/projects/project-9-icon.png", `
+    new ProjectData("project-9", "Shooter man. c++", "img/projects/project-9-icon.png", `
      <div class="paragraph">
                 <strong>Nikolable</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
                 <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@goumbik">Lukas</a>.

@@ -12,14 +12,14 @@
       <div style="margin-top: 20px;">I've worked on a <router-link to="/game-projects">couple of games</router-link>, Some different  <router-link to="/other-projects">projects (during my studies)</router-link>
         , and took part in <router-link to="/resume">a few things</router-link> as well.</div>
       <div style="margin-top: 40px;">I'm <strong>currently looking for a job</strong> as a Programmer/ IT specialist. You can reach me at <a href="mailto:brutinbjorn@gmail.com">brutinbjorn@gmail.com</a> or <router-link to="/contact">through here</router-link>.</div>      
-      <div class="photo" style="margin-top: 20px;">
     </div>
-      <img :src="`/img/IMG_Me_1.png`" alt="Avatar of Bjorn Brutin" style="max-width: 50%;"/> 
+    <div class="photo" style="margin-top: 20px;">
+      <img :src="`/img/IMG_Me_1.png`" alt="Avatar of Bjorn Brutin" width="224"/> 
     </div>
+  </div>
     
     <div style="clear:both"></div>
 
-  </div>
 </template>
 
 <style scoped>
