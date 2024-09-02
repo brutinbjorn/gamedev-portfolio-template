@@ -52,7 +52,8 @@ export default [
 
             <div class="paragraph">
               <div class="notice">
-              The project can be found on <a href="https://github.com/brutinbjorn/MiniArcade" target="_blank"> GitHub.</a>          </div>
+              The project can be found on <a href="https://github.com/brutinbjorn/MiniArcade" target="_blank"> GitHub.</a>          
+              </div>
             </div>
 
             <!--<div class="paragraph center">
@@ -62,7 +63,7 @@ export default [
             </div>-->
             `, "#1ca1e2"),
 
-    new ProjectData("project-8", "Zombie survival AI C++", "img/projects/project-8-icon.png", `
+    new ProjectData("project-8", "Zombie survival AI C++", "img/projects/Screenshot_ZombieAI.png", `
             <div class="paragraph">
                 A <strong>Zombie survival AI</strong> Made during my game play programming course.<br/>
                 This exam project interfaces with already build project, that generates the enviroment.<br/>
@@ -97,26 +98,32 @@ export default [
                 <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="The Art of Walking Screenshot" />
             </div>
             -->
-            `),
-    new ProjectData("project-9", "Shooter man. c++", "img/projects/project-9-icon.png", `
-     <div class="paragraph">
-                <strong>Nikolable</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-                <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@goumbik">Lukas</a>.
-            </div>
+            `,"#1ca1e2", false, true)//,
+    // new ProjectData("project-9", "Shooter man. c++", "img/projects/project-9-icon.png", `
+    //  <div class="paragraph">
+    //             <strong>Shooter man</strong> Was a game made for my graphics programming 2 exam.</br>
+    //             This project is basicly the end result, of all i was thought during the course.<br/>
+    //             all the shaders HLSL's, the logic for the animation, shadows, have been made by my during the course.</br>
 
-            <div class="paragraph">
-        Main features :
-        <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
-        </ul>
-    </div>
+    //             Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@goumbik">Lukas</a>.
+    //         </div>
 
-            <div class="paragraph">
-              <div class="notice">
-                Source code available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-              </div>
-            </div>`),
+    //         <div class="paragraph center">
+    //           <iframe class="video-container" src="vid/GraphicsProgramming2.mp4" height="300px" width="480px"></iframe>
+
+    //         </div>
+    //     Main features :
+    //     <ul>
+    //     <li>Some stuff</li>
+    //     <li>Some great stuff</li>
+    //     <li>More awesome stuff</li>
+    //     <li>And then some</li>
+    //     </ul>
+    // </div>
+
+    //         <div class="paragraph">
+    //           <div class="notice">
+    //             Source code available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
+    //           </div>
+    //         </div>`),
 ];

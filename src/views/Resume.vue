@@ -8,33 +8,17 @@
       Where i studied As a Game Developer, in the Ditigal Arts and Entertaiment mayor. <br/>
       Before I studied at DAE, I also studied At Vives, where got a Associates Degree in IT & Programming. <br/>
       The reason i wanted to study at DAE, after my studies at the Vives, is that I wanted to learn more advanced techniques when developing software. <br/>
-
       After my internship at THE PACK Brussels, I was able to work there for a additional 5 month's. <br/>
-
       Now I'm looking for a job where I can apply my skills i learned, and expand my knowledge as a Programmer/IT specialist. <br/>
-       
       Besides my interest in Progrmming and video games, I also enjoy music, play a bit of guitar, love festivals and comedy events, I'm a news-junky and love movies.
-      <!--, a former Delta Force operative with lots of experience, lots of training and huge muscles.
-      <br />After graduating from kindergarten, I've been enrolled in the army for 25 years, where I learned to destroy things in an amazing number of ways.
-      <br />I joined the Delta Force because I thought it was Greek lessons, but I quickly adapted to this unexpected environment and became a key element.
-      <br />I love teamwork, but I can also go in solo depending on the mission requirements.
-      <br />
-      <br />Right now I'm trying to find inner peace after I've read some personal development books. I'm looking for a monk job so if you have any opportunity feel free to 
-      <router-link to="/contact">contact me</router-link>.
-      <br />
-      <br />Besides war, I'm passionate about firearms, martial arts, explosions, push-ups and flowers.-->
-      
-
 
       <div style="margin-top:20px; margin-bottom:20px;">
         <a class="download-link" href="CV/CV_Brutin_Bjorn.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download my CV as PDF.</a>
-        <!--<a class="download-link" href="d/resume-en.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF</a>-->
-        <!--<a class="download-link" href="d/cv-fr.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Télécharger en PDF 🇫🇷</a>-->
         <div style="clear:both"></div>
       </div>
-    </div>
-    <div class="photo">
-      <img :src="`/img/IMG_Me.png`" alt="Photo of Bjorn Brutin" />
+      <div class="photo" style="margin-top: 20px;">
+        <img :src="`/img/IMG_Me.png`" alt="Photo of Bjorn Brutin" width="224"/>
+      </div>
     </div>
 
     <div style="clear:both"></div>
